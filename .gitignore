@@ -1,0 +1,22 @@
+# Дизайн и макеты
+design/
+screenshots/
+assets/
+
+# Сборка
+build/
+*.class
+*.jar
+*.apk
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Логи
+*.log

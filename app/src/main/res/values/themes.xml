@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NodAG" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:statusBarColor">@color/header</item>
+        <item name="android:navigationBarColor">@color/header</item>
+        <item name="colorPrimary">@color/node_bg</item>
+        <item name="colorPrimaryVariant">@color/header</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
