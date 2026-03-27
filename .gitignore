@@ -4,9 +4,8 @@ screenshots/
 assets/
 
 # Сборка
-build/
+app/build/
 *.class
-*.jar
 *.apk
 
 # IDE
@@ -20,3 +19,7 @@ __pycache__/
 
 # Логи
 *.log
+
+# Gradle (кроме wrapper)
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
