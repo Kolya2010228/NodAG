@@ -1,0 +1,20 @@
+# Дизайн-макеты и артефакты
+assets/
+
+# Build файлы
+build/
+*.apk
+*.aab
+
+# Локальные настройки
+*.iml
+.idea/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

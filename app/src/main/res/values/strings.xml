@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NodAG</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_nodes">Ноды</string>
+    <string name="nav_settings">Настройки</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Мои воркфлоу</string>
+    <string name="home_empty_title">Нет воркфлоу</string>
+    <string name="home_empty_subtitle">Создайте свой первый воркфлоу</string>
+    <string name="action_create_workflow">Создать воркфлоу</string>
+    
+    <!-- Editor Screen -->
+    <string name="editor_title">Редактор</string>
+    <string name="editor_add_node">Добавить ноду</string>
+    <string name="editor_run_workflow">Запустить</string>
+    <string name="editor_save">Сохранить</string>
+    <string name="editor_delete">Удалить</string>
+    
+    <!-- Node Types -->
+    <string name="node_type_input">Input</string>
+    <string name="node_type_process">Process</string>
+    <string name="node_type_output">Output</string>
+    <string name="node_type_logic">Logic</string>
+    <string name="node_type_util">Util</string>
+    
+    <!-- Built-in Nodes -->
+    <string name="node_file_input">File Input</string>
+    <string name="node_prompt_input">Prompt Input</string>
+    <string name="node_text_output">Text Output</string>
+    <string name="node_image_output">Image Output</string>
+    
+    <!-- AI Services -->
+    <string name="ai_openai">OpenAI</string>
+    <string name="ai_anthropic">Anthropic</string>
+    <string name="ai_stable_diffusion">Stable Diffusion</string>
+    <string name="ai_google">Google AI</string>
+    
+    <!-- Settings -->
+    <string name="settings_profile">Профиль</string>
+    <string name="settings_api_keys">API Ключи</string>
+    <string name="settings_app">Приложение</string>
+    <string name="settings_theme">Тема</string>
+    <string name="settings_language">Язык</string>
+    <string name="settings_export">Экспорт</string>
+    <string name="settings_about">О приложении</string>
+    <string name="settings_version">Версия</string>
+    
+    <!-- Node Creator -->
+    <string name="node_creator_title">Создать ноду</string>
+    <string name="node_name">Название ноды</string>
+    <string name="node_api_endpoint">API Endpoint</string>
+    <string name="node_api_key">API Key</string>
+    <string name="node_inputs">Входы</string>
+    <string name="node_outputs">Выходы</string>
+    <string name="node_add_input">Добавить вход</string>
+    <string name="node_add_output">Добавить выход</string>
+    <string name="node_save">Сохранить ноду</string>
+    
+    <!-- Common -->
+    <string name="action_add">Добавить</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="action_ok">OK</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_edit">Редактировать</string>
+    <string name="action_run">Запустить</string>
+    <string name="loading">Загрузка…</string>
+    <string name="error">Ошибка</string>
+    <string name="success">Успешно</string>
+</resources>

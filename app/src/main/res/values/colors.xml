@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#E94560</color>
+    <color name="primary_dark">#C73E54</color>
+    <color name="primary_light">#FF6B7E</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#1A1A2E</color>
+    <color name="surface">#16213E</color>
+    <color name="surface_light">#1F3460</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A0A0A0</color>
+    <color name="text_hint">#6B6B85</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_green">#4ADE80</color>
+    <color name="accent_blue">#60A5FA</color>
+    <color name="accent_purple">#A78BFA</color>
+    <color name="accent_orange">#FB923C</color>
+    
+    <!-- Node Colors -->
+    <color name="node_input">#3B82F6</color>
+    <color name="node_process">#8B5CF6</color>
+    <color name="node_output">#10B981</color>
+    <color name="node_logic">#F59E0B</color>
+    <color name="node_util">#6B7280</color>
+    
+    <!-- Other -->
+    <color name="divider">#2D2D44</color>
+    <color name="error">#EF4444</color>
+    <color name="success">#22C55E</color>
+    
+    <!-- AI Service Colors -->
+    <color name="openai_color">#10A37F</color>
+    <color name="anthropic_color">#D97757</color>
+    <color name="stable_diffusion_color">#7C3AED</color>
+    <color name="google_color">#4285F4</color>
+</resources>
